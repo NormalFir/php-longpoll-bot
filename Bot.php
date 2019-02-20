@@ -23,8 +23,8 @@ while(true){
 class Bot{
   public $cd = [];
   function __construct(){
-    $this->token = '4738ebb53cc541755d4fa79ebf8802daf6d8fe4bd3f110852f6838ee7e2e491f4d2166df0b07d97b28ed5';
-    $this->id = 178083150;
+    $ this -> token  =  'Токен Группы';
+    $ this -> id  =  Айди  группы;
     $this->newServer();
   }
   public function newServer(){
